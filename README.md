@@ -28,7 +28,7 @@ This repo documents my progress through TryHackMe's blue team pathways. Every ro
 |---|---|
 | SOC team structure and role boundaries | Understanding how L1, Senior Analyst, and Incident Responder interact |
 | Alert escalation discipline | Knowing when to escalate vs. when to investigate further |
-| Defensive mindset fundamentals | Shifting focus from problem-solving to threat detection and response |
+| Defensive mindset fundamentals | Shifting focus to threat detection and response |
 
 ---
 
