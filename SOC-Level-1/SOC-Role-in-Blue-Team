@@ -1,0 +1,21 @@
+🛡️ SOC Role in Blue Team — TryHackMe Writeup
+Platform: TryHackMe
+Path: SOC Level 1
+Category: Security Operations
+Difficulty: Easy
+
+🔍 What the room covered
+The place of the SOC within the broader Blue Team structure, the different roles that make up a security organization, and the career path of a SOC L1 analyst.
+
+🧠 What I actually learned
+Most of the Blue Team roles were already familiar — SOC engineers, pentesters, incident responders. The two genuine takeaways were:
+
+The CISO role — Chief Information Security Officer, the person at the top of the security org responsible for ensuring all teams are functioning correctly and working together toward the same goal
+Escalation terminology — this room specifically named L2 as the escalation point from L1, vs the previous room's "Senior Analyst" framing. Same concept, different labels depending on the org
+
+
+💡 Key concept to remember
+Job titles in security aren't standardized. "SOC L2", "Senior Analyst", "Tier 2" — these can mean the same thing depending on where you work. Don't get tripped up by the label, understand the function.
+
+🔑 How this connects to the SOC Analyst role
+Knowing where you sit in the org — technically and structurally — matters from day one. As L1 you're in the technical layer, working alongside SOC engineers and feeding escalations up to L2 and Incident Response. The CISO is the person your entire team ultimately reports up to, even if you never interact with them directly.
